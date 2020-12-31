@@ -1,2 +1,2 @@
 # Controle de despesas
-Controle de despesas(em desenvolvimento)
+Site criado com javascript, html e css, para ter o controle dos gastos...
